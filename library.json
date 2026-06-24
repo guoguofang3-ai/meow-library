@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "mode": "remote",
+  "name": "我的喵喵共读书库",
+  "books": [
+    {
+      "id": "alice",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "format": "txt",
+      "url": "books/alice.txt",
+      "coverColor": "#7B3F52"
+    }
+  ]
+}
