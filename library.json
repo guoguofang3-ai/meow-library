@@ -4,12 +4,20 @@
   "name": "我的喵喵共读书库",
   "books": [
     {
-      "id": "alice",
+      "id": "alice-gutenberg",
       "title": "Alice's Adventures in Wonderland",
       "author": "Lewis Carroll",
       "format": "txt",
-      "url": "books/alice.txt",
+      "url": "https://www.gutenberg.org/files/11/11-0.txt",
       "coverColor": "#7B3F52"
+    },
+    {
+      "id": "alice-local-test",
+      "title": "本地测试书",
+      "author": "喵喵机",
+      "format": "txt",
+      "url": "books/alice.txt",
+      "coverColor": "#1F2A44"
     }
   ]
 }
